@@ -1,0 +1,10 @@
+body{
+    font-family: helvetica, arial, sans-serif; color:#333631;
+    background-color: #648ca7
+  } 
+h1{
+    font-size: 2rem;
+    font-weight:100;
+    background-color:#2b332d;
+    text-align: center;
+}
